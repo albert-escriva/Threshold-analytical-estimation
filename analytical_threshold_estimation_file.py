@@ -8,7 +8,7 @@ from scipy.special import gammainc , gamma
 
 #Numerical skeleton of the analytical estimation for the threshold of PBH formation in terms of the linear 
 #component of the compaction function C_l, expressed in terms of κ (the curvature of C_l at the peak value r_m). 
-#See the paper on Arxiv for more details.The skeleton provided is a simple example
+#See the paper on Arxiv:2504.05814 for more details.The skeleton provided is a simple example
 #following the equation Eq.(16) in the paper. The example is very basic, with the curvature fluctuations 
 #already expressed in terms of C_l​ and κ, and is shown here for simplicity and for provide understanding
 #to the reader. The user can modify it for more complex shape parametrizations at her/his convinience
